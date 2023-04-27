@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack-Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/randeep986/randeep986.github.io](https://github.com/randeep986/randeep986.github.io)
+- 👨‍💻 All of my projects are available at [https://randeep986.github.io/](https://github.com/randeep986/randeep986.github.io)
 
 - 💬 Ask me about **JavaScript,React,HTML5,CSS,Bootstrap,Redux,NodeJs**
 
